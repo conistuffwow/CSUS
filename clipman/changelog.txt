@@ -1,13 +1,5 @@
 Clipman v2.1.0
-Changelog / Journal des changements / Änderungsprotokoll:
+Changelog 
 
 Clipman now supports editing clips! you can click to edit a clip, and then save the text as easily as possible.
 The update window now has recieved a facelift, you will see a changelog, and then you may choose to update.
-
-Clipman prend désormais en charge l'édition de clips ! Vous pouvez cliquer pour modifier un clip, puis enregistrer le texte aussi facilement que possible.
-
-La fenêtre de mise à jour a maintenant reçu un lifting, vous verrez un journal des modifications, puis vous pourrez choisir de mettre à jour.
-
-Clipman unterstützt jetzt die Bearbeitung von Clips! Sie können klicken, um einen Clip zu bearbeiten, und dann den Text so einfach wie möglich speichern.
-
-Das Aktualisierungsfenster hat jetzt ein Facelift erhalten, Sie sehen ein Änderungsprotokoll und können dann ein Update wählen.
